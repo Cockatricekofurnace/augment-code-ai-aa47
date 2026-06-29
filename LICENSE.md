@@ -1,4 +1,4 @@
-# 
+# VIP Augment Code presets. Featuring multi-modal-support and custom-model-training — optimized for maximum performance and efficiency.
 
 
 
